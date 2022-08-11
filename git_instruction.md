@@ -101,3 +101,11 @@ hello.txt
 + Changes to be committed:
 (use "git rm --cached ..." to unstage)
 new file: hello.txt
+
+## Фиксация изменений
+
+## Ветвление
+
+## Дополнительно
+
+## Git bash и git.io
